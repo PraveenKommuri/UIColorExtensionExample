@@ -17,14 +17,18 @@ extension UIColor {
     /// CustomBlue color using hex value.
     @objc static var customBlue: UIColor { return UIColor(rgb: 0x0006c4) }
 
+
     /// CustomRed color using rgb values.
     @objc static var customRed: UIColor { return UIColor(red: 237/255, green: 47/255, blue: 0/255, alpha: 1.0) }
+
 
     /// CustomGray color using rgb values.
     @objc static var customGray: UIColor { return UIColor(red: 183/255, green: 0/255, blue: 186/255, alpha: 1.0) }
 
+
     /// customGreen color using rgb values.
     @objc static var customGreen: UIColor { return UIColor(red: 78/255, green: 142/255, blue: 0/255, alpha: 1.0) }
+
 
     /// customBlack color using rgb values.
     @objc static var customBlack: UIColor {
